@@ -308,4 +308,4 @@ Commercial licensing and support are also available, contact Nathan Friedly (nat
 
 
 
-https://heroku.com/deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
